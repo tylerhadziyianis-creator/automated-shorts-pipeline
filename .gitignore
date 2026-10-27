@@ -1,0 +1,27 @@
+# Secrets - never commit
+.env
+client_secrets.json
+client_secret*.json
+youtube_credentials.json
+token*.json
+credentials*.json
+*.pem
+*.key
+*cookies*.txt
+
+# Generated media and runtime data
+output/
+logs/
+*.log
+aita_state.json
+performance_log.json
+
+# Python / macOS
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+
+# Third-party music (not mine to redistribute)
+assets/music/
