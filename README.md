@@ -42,9 +42,8 @@ flowchart LR
 
 ## Results
 
-<!-- Fill in from YouTube Studio > Analytics > Lifetime before making this repo public -->
-- Total views: **[verify]**
-- Average percentage viewed: **[verify]** on ~80–100 second videos
+- **10,000+ views**
+- **82% average percentage viewed** on ~80–100 second videos
 
 ## What I learned
 
